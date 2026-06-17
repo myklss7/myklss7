@@ -1,16 +1,39 @@
-## Hi there 👋
+# Ooioi! Eu sou a Eloá 👋
 
-<!--
-**myklss7/myklss7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💻 Estudante de Desenvolvimento de Software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Escritora
+
+🎮 Aprendendo desenvolvimento de jogos
+
+🌐 Aprendendo desenvolvimento web
+
+---
+
+## Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode" />
+</p>
+
+---
+
+## Objetivos
+
+- Criar meus próprios sites
+- Desenvolver jogos independentes
+- Aprender novas tecnologias
+- Transformar ideias em projetos
+
+---
+
+## Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myklss7&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myklss7&layout=compact)
+
+---
+
+> Se existe uma ideia, existe um projeto.
